@@ -18,6 +18,14 @@
   var img = '/android-chrome-256x256.png';
   var text = 'Welcome to ThreatLink Notifier';
   var notification = new Notification('ThreatLink Notifier', { body: text, icon: img });
+  const options = {
+    body: text,
+    icon: img,
+    badge: "/safari-pinned-tab.svg",
+ };
+navigator.serviceWorker.ready.then(function(serviceWorker) {
+  serviceWorker.showNotification('ThreatLink Notifier', options);
+});
 </script>
 
 <center><h1>Advanced ThreatLink Alert System</h1><h3>Si vis pacem, para bellum parati semper</h3>
