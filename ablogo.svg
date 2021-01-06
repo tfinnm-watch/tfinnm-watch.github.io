@@ -1,0 +1,22 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+ <metadata>image/svg+xml</metadata>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="602" height="602" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle cx="301" cy="301" r="300" fill="#003080" id="svg_1"/>
+  <path d="m65,435l472,0l-236,-401l-236,401z" fill="#ffffff" id="svg_2" stroke="null"/>
+  <rect fill="none" stroke-width="20" x="280" y="95" width="41.17647" height="330.58822" id="svg_6" stroke="#ce1126"/>
+  <path d="m287.11764,76.17648l28.47052,0l-14.23526,-24.52944l-14.23526,24.52944z" fill="none" id="svg_9" stroke-width="20" stroke="#ce1126"/>
+  <rect fill="none" stroke="#ce1126" stroke-width="20" x="288.82353" y="102.35294" width="18.82353" height="314.11765" id="svg_10"/>
+  <rect fill="none" stroke-width="20" x="188.82354" y="250" width="224.82351" height="40" id="svg_12" stroke="#ce1126"/>
+  <rect fill="none" stroke="#ce1126" stroke-width="20" stroke-opacity="null" fill-opacity="null" x="195.88235" y="255.29412" width="204.70588" height="17.64706" id="svg_13"/>
+  <path d="m161.23528,290.29413l35.52934,0l-17.76467,-30.4118l-17.76467,30.4118z" fill="none" id="svg_15" stroke-width="20" stroke="#ce1126"/>
+  <rect fill="none" stroke="#ce1126" stroke-width="20" x="174.70588" y="275.29412" width="7.05882" height="4.70588" id="svg_16"/>
+  <path d="m407.11763,290.29413l35.52935,0l-17.76467,-30.4118l-17.76468,30.4118z" fill="none" id="svg_17" stroke-width="20" stroke="#ce1126"/>
+  <rect fill="none" stroke="#ce1126" stroke-width="20" x="414.70588" y="272.94118" width="11.76471" height="11.76471" id="svg_18"/>
+ </g>
+</svg>
